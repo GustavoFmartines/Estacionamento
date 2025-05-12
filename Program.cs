@@ -9,7 +9,8 @@ Console.WriteLine("---Estacionamento---");
 
     Console.ResetColor();
 
-// Validação do tipo de veículo e da lavagem/valet (pesquisei no chat gpt pq tava me dando raiva dar erro caso eu não colocasse p/g ou s/n, ainda não compreendo muito bem como funciona essa validação/loop) :3
+// Validação do tipo de veículo, lavagem/valet e dos minutos (pesquisei no chat gpt pq tava me dando raiva dar erro caso eu não colocasse p/g, s/n ou quando colocava letras na entrada de tempo).
+//ainda não compreendo muito bem como funciona essa validação/loop.
 
 do
 {
